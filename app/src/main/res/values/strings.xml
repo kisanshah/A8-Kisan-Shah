@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ResumeBuilder</string>
+    <string name="forget_password"><u>Forget password?</u></string>
+    <string name="create_account"><u>Create account</u></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="send_password_reset_email">Send Password Reset Email</string>
+    <string name="reset">Enter the email address you used when creating the account and click Send Password Reset Email. A message will be sent to that address containing a link to reset your password.</string>
+</resources>

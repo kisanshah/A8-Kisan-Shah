@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649822078015",
+    "project_id": "resumebuilder-a1e33",
+    "storage_bucket": "resumebuilder-a1e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649822078015:android:3fd2375378dd27643ae48a",
+        "android_client_info": {
+          "package_name": "com.example.resumebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649822078015-fh311cd1flfncfg2a85p0q0eed37rcpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZ6kd53sa_B_uz86zdQIqdreh8jydeGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649822078015-fh311cd1flfncfg2a85p0q0eed37rcpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
