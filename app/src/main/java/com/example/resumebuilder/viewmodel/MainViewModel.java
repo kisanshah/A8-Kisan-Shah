@@ -7,15 +7,18 @@ import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
 
 import com.example.resumebuilder.repository.AuthRepository;
+import com.example.resumebuilder.repository.ResumeRepository;
 import com.google.firebase.auth.FirebaseUser;
 
 public class MainViewModel extends AndroidViewModel {
 
     AuthRepository authRepository;
+    ResumeRepository resumeRepository;
 
     public MainViewModel(@NonNull Application application) {
         super(application);
         authRepository = new AuthRepository(application);
+        resumeRepository = new ResumeRepository(application);
     }
 
     public MutableLiveData<FirebaseUser> getLiveUser() {

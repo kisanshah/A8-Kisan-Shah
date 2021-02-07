@@ -7,4 +7,20 @@
     <string name="already_have_an_account">Already have an account?</string>
     <string name="send_password_reset_email">Send Password Reset Email</string>
     <string name="reset">Enter the email address you used when creating the account and click Send Password Reset Email. A message will be sent to that address containing a link to reset your password.</string>
+    <string name="education">Education</string>
+    <string name="todo">TODO</string>
+    <string name="your_name">Your Name</string>
+    <string name="professional_title">Professional title</string>
+    <string name="short_and_engaging_pitch_about_you">Short and engaging pitch about you</string>
+    <string name="example_domain_com">example@domain.com</string>
+    <string name="_123456789">123456789</string>
+    <string name="study_program">Study Program</string>
+    <string name="institute_place_of_education">Institute/Place of education.</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="title_position">Title position</string>
+    <string name="workplace_company">Workplace/Company</string>
+    <string name="skills">Skills</string>
+    <string name="skill">Skill</string>
+    <string name="personal_projects">Personal projects</string>
+    <string name="project_name">Project name</string>
 </resources>

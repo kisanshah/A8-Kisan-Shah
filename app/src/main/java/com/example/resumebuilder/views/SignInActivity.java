@@ -60,6 +60,7 @@ public class SignInActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(SignInActivity.this, ResetActivity.class));
+                finish();
             }
         });
 
@@ -67,6 +68,7 @@ public class SignInActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(SignInActivity.this, SignUpActivity.class));
+                finish();
             }
         });
 
@@ -91,6 +93,6 @@ public class SignInActivity extends AppCompatActivity {
 
     private void goToMainActivity() {
         startActivity(new Intent(SignInActivity.this, MainActivity.class));
-
+        finish();
     }
 }
